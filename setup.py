@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'languageHelpers.translit',
-    version = '0.0.1',
+    version = '0.0.6',
     author = 'Krzysztof Borowczyk',
     author_email = 'krzysztof@bordev.pl',
     description = 'Transliteration wrapper using uconv(1)',

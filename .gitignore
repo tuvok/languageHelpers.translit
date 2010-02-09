@@ -1,1 +1,4 @@
 *~
+build/
+dist/
+languageHelpers/languageHelpers.translit.egg-info/
